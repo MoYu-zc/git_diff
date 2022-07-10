@@ -9,7 +9,13 @@
 public class Test {
     public static void main(String[] args) {
         System.out.println("init master");
+<<<<<<< HEAD
         System.out.println("add master");
+=======
+
+        System.out.println("init feature");
+        System.out.println("feature vs release");
+>>>>>>> feature
     }
 }
 
