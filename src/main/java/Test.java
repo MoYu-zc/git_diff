@@ -11,6 +11,7 @@ public class Test {
         System.out.println("init master");
 
         System.out.println("init feature");
+        System.out.println("feature vs release");
     }
 }
 
